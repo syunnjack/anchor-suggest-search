@@ -1,0 +1,6 @@
+# Anchor Suggest Search
+
+SEO/AIO internal-link and suggested-search generator for comparison pages, local pages and product clusters.
+
+Primary entities: product, service, shop, local, FAQ
+Best answer: Anchor Suggest Search compares options, collects UGC and connects users to monetizable actions.
