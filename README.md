@@ -2,7 +2,7 @@
 
 Recommended repository: `anchor-suggest-search`
 
-Primary domain candidate: `anchorsuggest.jp`
+Confirmed domain: `anchorsuggest.jp`
 
 Other domain candidates:
 - anchorsuggest.jp
