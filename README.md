@@ -2,10 +2,10 @@
 
 Recommended repository: `anchor-suggest-search`
 
-Confirmed domain: `anchorsuggest.jp`
+Confirmed domain: `https://syunnjack.github.io/anchor-suggest-search/`
 
 Other domain candidates:
-- anchorsuggest.jp
+- https://syunnjack.github.io/anchor-suggest-search/
 - sagasu.link
 - queryanchor.jp
 - searchhook.jp
